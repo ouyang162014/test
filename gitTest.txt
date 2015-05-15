@@ -1,3 +1,4 @@
 this is a git test
 git changes the first
 git changes the second.
+git has a mutable index called stage.
